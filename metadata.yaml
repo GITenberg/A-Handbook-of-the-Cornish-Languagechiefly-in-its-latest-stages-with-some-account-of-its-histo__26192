@@ -1,0 +1,33 @@
+_repo: A-Handbook-of-the-Cornish-Languagechiefly-in-its-latest-stages-with-some-account-of-its-histo__26192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jenner, Henry
+    alias: Gwas Myghal
+    birthdate: 1848
+    deathdate: 1934
+    gutenberg_agent_id: '31859'
+    url: http://www.gutenberg.org/2009/agents/31859
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Jenner
+description: ''
+gutenberg_issued: '2008-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cornish language -- Grammar'
+- !lcsh 'Cornish literature -- History and criticism'
+- !lcsh 'Cornwall (England : County) -- Languages'
+- !lcsh 'Cornish language -- History'
+- !lcc 'PB'
+title: 'A Handbook of the Cornish Language
+
+  chiefly in its latest stages with some account of its history and literature'
+url: http://www.gutenberg.org/ebooks/26192
