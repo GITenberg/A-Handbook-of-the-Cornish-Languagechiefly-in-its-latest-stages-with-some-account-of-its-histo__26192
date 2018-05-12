@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31859
     wikipedia: http://en.wikipedia.org/wiki/Henry_Jenner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26192#A-Handbook-of-the-Cornish-Languagechiefly-in-its-latest-stages-with-some-account-of-its-histo_
 gutenberg_issued: '2008-08-04'
 gutenberg_type: Text
 identifiers:
